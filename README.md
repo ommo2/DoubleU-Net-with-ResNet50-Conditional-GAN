@@ -80,7 +80,7 @@ https://github.com/VITA-Group/DeblurGANv2
 
 ## GAN
 
-generate GAN condition image (input condition for GAN)
+Generate GAN condition image (input condition for GAN)
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/generate%20condition%20image.ipynb
 
