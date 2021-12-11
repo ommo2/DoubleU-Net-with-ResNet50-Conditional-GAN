@@ -1,6 +1,6 @@
 # DoubleU-Net-with-ResNet50-Conditional-GAN
 
-##YOLOv4
+## YOLOv4
 
 YOLOv4原論文版本
 
@@ -22,7 +22,7 @@ labelImg教學
 
 https://tw.leaderg.com/article/index?sn=11159
 
-######################################################
+## PASCAL VOC to YOLO_txt
 
 VOC資料擴增 (labelImg標記後做資料擴增)
 
@@ -32,7 +32,7 @@ https://github.com/mukopikmin/bounding-box-augmentation
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/tree/main/VOC_data_augmentation
 
-######################################################
+## Mask-RCNN
 
 Mask-RCNN原論文版本
 
@@ -45,7 +45,7 @@ pip install labelimg
 labelimg   (啟動)
 ```
 
-> mrcnn tf1 & tf2 should rename to mrcnn while importing them
+``` mrcnn tf1 & tf2 should rename to mrcnn while importing them ```
 
 Mask-RCNN訓練教學(中文)
 
@@ -67,25 +67,32 @@ https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mas
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mask_rcnn_server.ipynb
 
-######################################################
 
-DeblurGAN-v2
+
+## DeblurGAN-v2
 
 https://github.com/VITA-Group/DeblurGANv2
+
+## DeblurGAN-v2
 
 產生GAN condition圖
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/generate%20condition%20image.ipynb
 
-圖片resize
-
-https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/resize%20image.ipynb
-
 論文中我的GAN
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/GAN.ipynb
 
-Deep-SORT
+## Deep-SORT
+
+deepsort for yolov4
 
 https://github.com/theAIGuysCode/yolov4-deepsort
+
+
+## tools
+
+圖片resize
+
+https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/resize%20image.ipynb
 
