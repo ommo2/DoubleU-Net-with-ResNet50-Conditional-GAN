@@ -38,11 +38,11 @@ Mask-RCNN原論文版本
 https://github.com/matterport/Mask_RCNN
 
 label工具(不規則形) 輸入指令安裝
-'''
+```
 pip install labelimg
 
 labelimg   (啟動)
-'''
+```
 Mask-RCNN訓練教學(中文)
 
 https://tn00343140a.pixnet.net/blog/post/319064126-mask-rcnn%E4%BD%BF%E7%94%A8%E7%AF%87
