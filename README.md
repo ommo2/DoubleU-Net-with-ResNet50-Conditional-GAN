@@ -6,7 +6,7 @@ YOLOv4 official version
 
 https://github.com/AlexeyAB/darknet
 
-OpenCV installation
+OpenCV installation (needed)
 
 https://zhuanlan.zhihu.com/p/246816303
 
