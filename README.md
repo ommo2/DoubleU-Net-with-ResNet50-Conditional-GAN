@@ -14,7 +14,7 @@ YOLOv4 installation tutorial (Chinese)
 
 https://zhuanlan.zhihu.com/p/246816303
 
-Labeling tool for YOLOv4 (square)
+Labeling tool for YOLOv4 (LabelImg)
 
 https://tzutalin.github.io/labelImg/
 
@@ -24,7 +24,7 @@ https://tw.leaderg.com/article/index?sn=11159
 
 ## PASCAL VOC to YOLO_txt
 
-VOC data augmentation (after labelImg)
+VOC data augmentation (do this after labeling)
 
 https://github.com/mukopikmin/bounding-box-augmentation
 
@@ -38,16 +38,16 @@ Mask-RCNN official version
 
 https://github.com/matterport/Mask_RCNN
 
-Labeling tool for Mask-RCNN type the command below
+Labeling tool for Mask-RCNN type the command below (labelme)
 
 ```
-pip install labelimg
+pip install labelme
 ```
 
 activate
 
 ```
-labelimg   
+labelme   
 ```
 
 ``` mrcnn tf1 & tf2 should rename to mrcnn while importing them ```
