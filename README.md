@@ -22,6 +22,7 @@ VOC資料擴增 (labelImg標記後做資料擴增)
 https://github.com/mukopikmin/bounding-box-augmentation
 
 參考VOC資料擴增github，修改擴增方式，並修成.ipynb版本方便使用
+
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/tree/main/VOC_data_augmentation
 
 ######################################################
@@ -37,10 +38,13 @@ https://tn00343140a.pixnet.net/blog/post/319064126-mask-rcnn%E4%BD%BF%E7%94%A8%E
 
 訓練Mask-RCNN的檔案
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mrcnn_train.py
+
 計算Mask-RCNN mAP指標
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mAP_mrcnn.ipynb
+
 論文中Mask-RCNN的client端(執行deep sort時一起執行)
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mask_rcnn_client.py
+
 論文中Mask-RCNN的server端(執行deep sort時一起執行)
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mask_rcnn_server.ipynb
 
@@ -48,6 +52,7 @@ https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mas
 
 DeblurGAN-v2
 https://github.com/VITA-Group/DeblurGANv2
+
 產生GAN condition圖
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/generate%20condition%20image.ipynb
 
