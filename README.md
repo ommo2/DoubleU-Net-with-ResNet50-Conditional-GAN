@@ -73,7 +73,7 @@ https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/mas
 
 https://github.com/VITA-Group/DeblurGANv2
 
-## DeblurGAN-v2
+## GAN
 
 產生GAN condition圖
 
