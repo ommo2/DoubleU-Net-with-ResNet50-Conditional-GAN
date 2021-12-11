@@ -50,7 +50,7 @@ activate
 labelme   
 ```
 
-``` mrcnn tf1 & tf2 should rename to mrcnn while importing them ```
+``` mrcnn tf1 & tf2 should rename to mrcnn before importing them ```
 
 Mask-RCNN tutorial (Chinese)
 
