@@ -1,5 +1,5 @@
 # DoubleU-Net-with-ResNet50-Conditional-GAN
-mrcnn tf1 & tf2 should rename to mrcnn while importing them
+
 
 YOLOv4原論文版本
 
@@ -43,6 +43,9 @@ pip install labelimg
 
 labelimg   (啟動)
 ```
+
+> mrcnn tf1 & tf2 should rename to mrcnn while importing them
+
 Mask-RCNN訓練教學(中文)
 
 https://tn00343140a.pixnet.net/blog/post/319064126-mask-rcnn%E4%BD%BF%E7%94%A8%E7%AF%87
