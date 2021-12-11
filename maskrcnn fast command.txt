@@ -1,0 +1,10 @@
+#change all labelme json file to mask image
+for /r C:\Users\path_to_all_jsonfile %i in (*.json) do labelme_json_to_dataset %i
+
+
+#fast rename if needed (use power shell don't use cmd)
+Dir *.png | %{Rename-Item $_ -NewName ("clip_{0}.png" -f $c++)}
+
+Dir *.json | %{Rename-Item $_ -NewName ("clip_{0}.json" -f $c++)}
+
+Dir *.yaml | %{Rename-Item $_ -NewName ("clip_{0}.yaml" -f $c++)}
