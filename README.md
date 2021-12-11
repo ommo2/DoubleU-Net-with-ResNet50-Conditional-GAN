@@ -14,11 +14,11 @@ YOLOv4 installation tutorial (Chinese)
 
 https://zhuanlan.zhihu.com/p/246816303
 
-labeling tool for YOLOv4 (square)
+Labeling tool for YOLOv4 (square)
 
 https://tzutalin.github.io/labelImg/
 
-labelImg tutorial
+LabelImg tutorial
 
 https://tw.leaderg.com/article/index?sn=11159
 
@@ -28,7 +28,7 @@ VOC data augmentation (after labelImg)
 
 https://github.com/mukopikmin/bounding-box-augmentation
 
-reference VOC data augmentation, adjust some aumentation method and turn .py to .ipynb
+Reference VOC data augmentation, adjust some aumentation method and turn .py to .ipynb
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/tree/main/VOC_data_augmentation
 
@@ -38,7 +38,7 @@ Mask-RCNN official version
 
 https://github.com/matterport/Mask_RCNN
 
-labeling tool for Mask-RCNN type the command below
+Labeling tool for Mask-RCNN type the command below
 
 ```
 pip install labelimg
@@ -84,23 +84,23 @@ generate GAN condition image (input condition for GAN)
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/generate%20condition%20image.ipynb
 
-MY GAN
+My GAN
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/GAN.ipynb
 
 ## Deep-SORT
 
-deepsort for yolov4
+Deepsort for yolov4
 
 https://github.com/theAIGuysCode/yolov4-deepsort
 
 
 ## tools
 
-resize image
+Resize image
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/resize%20image.ipynb
 
-get image frame from video
+Get image frame from video
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/Save%20image%20form%20video%20frame.ipynb
