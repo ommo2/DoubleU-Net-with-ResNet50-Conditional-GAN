@@ -84,6 +84,10 @@ Generate GAN condition image (the condition input of GAN)
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/generate%20condition%20image.ipynb
 
+GAN architecture
+
+https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/Conditional_GAN.ipynb
+
 ## Deep-SORT
 
 Deepsort for yolov4
