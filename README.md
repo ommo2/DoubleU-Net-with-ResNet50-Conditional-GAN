@@ -104,6 +104,10 @@ Resize image
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/resize%20image.ipynb
 
+Resize PASCAL VOC
+
+https://github.com/italojs/resize_dataset_pascalvoc
+
 Get image frame from video
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/Save%20image%20form%20video%20frame.ipynb
