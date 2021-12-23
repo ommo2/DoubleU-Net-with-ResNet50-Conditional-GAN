@@ -94,6 +94,10 @@ Deepsort for yolov4
 
 https://github.com/theAIGuysCode/yolov4-deepsort
 
+The bounding box thereshhold in my thesis
+
+https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/object_tracker_adjust.py
+
 ## image classification
 
 https://github.com/ommo2/DoubleU-Net-with-ResNet50-Conditional-GAN/blob/main/Image_classification_tenfold_(binary).ipynb
