@@ -8,7 +8,7 @@ https://github.com/AlexeyAB/darknet
 
 OpenCV installation (needed)
 
-https://zhuanlan.zhihu.com/p/246816303
+https://opencv.org/releases/
 
 YOLOv4 installation tutorial (Chinese)
 
